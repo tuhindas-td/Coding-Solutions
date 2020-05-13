@@ -1,1 +1,1 @@
-# DAY-2
+Coding Solutions
